@@ -5773,19 +5773,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP\\asp_web\\.github\\BTVN\\BTVN\\BTVN.csproj",
+      "projectUniqueName": "D:\\LapTrinhWed\\BaiTapVeNha\\BTVN\\BTVN\\BTVN.csproj",
       "projectName": "BTVN",
-      "projectPath": "D:\\ASP\\asp_web\\.github\\BTVN\\BTVN\\BTVN.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP\\asp_web\\.github\\BTVN\\BTVN\\obj\\",
+      "projectPath": "D:\\LapTrinhWed\\BaiTapVeNha\\BTVN\\BTVN\\BTVN.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "D:\\LapTrinhWed\\BaiTapVeNha\\BTVN\\BTVN\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
