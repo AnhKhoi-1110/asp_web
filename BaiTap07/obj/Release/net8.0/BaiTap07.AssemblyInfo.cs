@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-BaiTap07-0f0ab022-bac5-47a7-a032-3c4ddf6319f9")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("BaiTap07")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfd8e5fe31dd93b561e8a360b924b167a500726b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaiTap07")]

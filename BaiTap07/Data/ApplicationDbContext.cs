@@ -4,14 +4,14 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BaiTap07.Data
 {
-	public class ApplicationDbContext : IdentityDbContext
-	{
-		public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
-			: base(options)
-		{
-		}
+    public class ApplicationDbContext : IdentityDbContext
+    {
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+            : base(options)
+        {
+        }
 
-		public DbSet<TheLoai> TheLoai { get; set; }
+        public DbSet<TheLoai> TheLoai { get; set; }
 
-	}
+    }
 }
