@@ -2,7 +2,7 @@
 using BaiTap07.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace BaiTap07.Controllers
+namespace BaiTap07a.Controllers
 {
     public class TheLoaiController : Controller
     {
@@ -88,6 +88,37 @@ namespace BaiTap07.Controllers
             _db.TheLoai.Remove(theloai);
             _db.SaveChanges();
             return RedirectToAction("Index");
+        }
+
+        [HttpGet]
+        public IActionResult Detail(int id)
+        {
+            if (id == 0)
+            {
+                return NotFound();
+            }
+            var theloai = _db.TheLoai.Find(id);
+            return View(theloai);
+        }
+
+        [HttpGet]
+        public IActionResult Search(string searchString)
+        {
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                // Sử dụng LinQ để tìm kiếm
+                var theloai = _db.TheLoai
+                    .Where(tl => tl.Name.Contains(searchString))
+                    .ToList();
+                ViewBag.searchString = searchString;
+                ViewBag.TheLoai = theloai;
+            }
+            else
+            {
+                var theloai = _db.TheLoai.ToList();
+                ViewBag.TheLoai = theloai;
+            }
+            return View("Index"); // Sử  dụng lại View Index
         }
     }
 }
