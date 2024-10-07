@@ -8555,11 +8555,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LapTrinhWed\\projectA\\projectA\\projectA.csproj",
+      "projectUniqueName": "D:\\ASP-NET\\asp_web\\projectA\\projectA\\projectA.csproj",
       "projectName": "projectA",
-      "projectPath": "D:\\LapTrinhWed\\projectA\\projectA\\projectA.csproj",
+      "projectPath": "D:\\ASP-NET\\asp_web\\projectA\\projectA\\projectA.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\LapTrinhWed\\projectA\\projectA\\obj\\",
+      "outputPath": "D:\\ASP-NET\\asp_web\\projectA\\projectA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
