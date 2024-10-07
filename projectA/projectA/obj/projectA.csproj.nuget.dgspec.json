@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP-NET\\asp_web\\projectA\\projectA\\projectA.csproj": {}
+    "D:\\LapTrinhWed\\projectA\\projectA\\projectA.csproj": {}
   },
   "projects": {
-    "D:\\ASP-NET\\asp_web\\projectA\\projectA\\projectA.csproj": {
+    "D:\\LapTrinhWed\\projectA\\projectA\\projectA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP-NET\\asp_web\\projectA\\projectA\\projectA.csproj",
+        "projectUniqueName": "D:\\LapTrinhWed\\projectA\\projectA\\projectA.csproj",
         "projectName": "projectA",
-        "projectPath": "D:\\ASP-NET\\asp_web\\projectA\\projectA\\projectA.csproj",
+        "projectPath": "D:\\LapTrinhWed\\projectA\\projectA\\projectA.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP-NET\\asp_web\\projectA\\projectA\\obj\\",
+        "outputPath": "D:\\LapTrinhWed\\projectA\\projectA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,6 +69,10 @@
               "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[8.0.8, )"
             },

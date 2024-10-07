@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LapTrinhWed\\BaiKiemTra02\\BaiKiemTra02.csproj": {}
+    "D:\\ASP-NET\\asp_web\\BaiKiemTra02\\BaiKiemTra02.csproj": {}
   },
   "projects": {
-    "D:\\LapTrinhWed\\BaiKiemTra02\\BaiKiemTra02.csproj": {
+    "D:\\ASP-NET\\asp_web\\BaiKiemTra02\\BaiKiemTra02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LapTrinhWed\\BaiKiemTra02\\BaiKiemTra02.csproj",
+        "projectUniqueName": "D:\\ASP-NET\\asp_web\\BaiKiemTra02\\BaiKiemTra02.csproj",
         "projectName": "BaiKiemTra02",
-        "projectPath": "D:\\LapTrinhWed\\BaiKiemTra02\\BaiKiemTra02.csproj",
+        "projectPath": "D:\\ASP-NET\\asp_web\\BaiKiemTra02\\BaiKiemTra02.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\LapTrinhWed\\BaiKiemTra02\\obj\\",
+        "outputPath": "D:\\ASP-NET\\asp_web\\BaiKiemTra02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
