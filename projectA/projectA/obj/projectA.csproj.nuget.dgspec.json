@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP-NET\\asp_web\\projectA\\projectA\\projectA.csproj": {}
+    "D:\\ASP-NET\\projectA\\projectA\\projectA.csproj": {}
   },
   "projects": {
-    "D:\\ASP-NET\\asp_web\\projectA\\projectA\\projectA.csproj": {
+    "D:\\ASP-NET\\projectA\\projectA\\projectA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP-NET\\asp_web\\projectA\\projectA\\projectA.csproj",
+        "projectUniqueName": "D:\\ASP-NET\\projectA\\projectA\\projectA.csproj",
         "projectName": "projectA",
-        "projectPath": "D:\\ASP-NET\\asp_web\\projectA\\projectA\\projectA.csproj",
+        "projectPath": "D:\\ASP-NET\\projectA\\projectA\\projectA.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP-NET\\asp_web\\projectA\\projectA\\obj\\",
+        "outputPath": "D:\\ASP-NET\\projectA\\projectA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -104,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
